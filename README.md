@@ -12,4 +12,4 @@ We specialize in creating modern, high-performance, and battery-friendly Android
 * **Contact & Support:** dntbnmpls@gmail.com
 
 ---
-*Privacy Policy and App-Ads.txt resources will be hosted on this domain prior to public app releases.*
+[Privacy Policy]([https://github.io](https://szm19.github.io/privacy))
